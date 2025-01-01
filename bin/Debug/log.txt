@@ -1,0 +1,4 @@
+There are total 2 supported mouse buttons
+Allegro5 initialized
+Game begin
+failed to load font: Assets/Minecraft.ttf with size 30
